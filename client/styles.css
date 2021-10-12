@@ -255,4 +255,11 @@
         margin-right: auto;
     }
     
+    .vid-border{
+        position: relative;
+        height: 1080px;
+        width: 900px;
+        border: 10px solid black;
+        overflow: hidden;
+    }
 }
